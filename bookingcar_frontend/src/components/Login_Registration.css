@@ -1,0 +1,18 @@
+.wrapper{
+    height: 100vh;
+  }
+  .login_registration{
+    width: 300px;
+    padding: 20px;
+    height: min-content;
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(241, 243, 246);
+  }
+  .form-control{
+    flex: 1;
+    min-width: 40%;
+    margin: 20px 10px 0px 0px;
+    padding: 10px;
+  }
+  
